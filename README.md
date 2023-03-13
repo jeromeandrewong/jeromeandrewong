@@ -1,8 +1,12 @@
-### Yo, I'm Jerome 👋
 
 ![White Minimalist Corporate Personal Profile LinkedIn Banner (3)](https://user-images.githubusercontent.com/68373112/224745075-46bd8268-ee2a-4b37-ae1f-3f1f8bc75a82.png)
 
 
 
+# Hey there! Welcome To My Github!
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=75fom0a5lm50o92p9gen76bbs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+- 👋 I'm Jerome
+- 🏫 I'm a student at Singapore Management University (SMU)
+- 📚 I'm pursuing a Bachelors in Information Systems, Majoring in Digital Cloud Solutions & Business Analytics, with a minor in Quantitative Finance
+- 🌱 I’m currently working on Fullstack end-to-end Typesafe projects
+- 🐈 I love cats
