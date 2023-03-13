@@ -1,4 +1,4 @@
-### Hi there, I'm Jerome 👋
+### Yo, I'm Jerome 👋
 
 ![White Minimalist Corporate Personal Profile LinkedIn Banner (3)](https://user-images.githubusercontent.com/68373112/224745075-46bd8268-ee2a-4b37-ae1f-3f1f8bc75a82.png)
 
