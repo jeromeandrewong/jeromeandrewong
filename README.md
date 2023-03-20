@@ -7,6 +7,6 @@
 
 - 👋 I'm Jerome
 - 🏫 I'm a student at Singapore Management University (SMU)
-- 📚 I'm pursuing a Bachelors in Information Systems, Majoring in Digital Cloud Solutions & Business Analytics, with a minor in Quantitative Finance
+- 📚 I'm pursuing a Bachelors in Information Systems, Majoring in Digital Cloud Solutions & Business Analytics, with a 2nd Major in Quantitative Finance
 - 🌱 I’m currently working on Fullstack end-to-end Typesafe projects
 - 🐈 I love cats
