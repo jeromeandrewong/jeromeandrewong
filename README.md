@@ -9,5 +9,5 @@
 - 📚 I'm pursuing a Bachelors in Information Systems, Majoring in Digital Cloud Solutions & Business Analytics, with a 2nd Major in Quantitative Finance
 - 🌱 I’m currently working on Fullstack end-to-end Typesafe projects
 
-[![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeromeandrewong&show_icons=true&hide=stars&theme=tokyonight)](https://github.com/jeromeandrewong/github-readme-stats)
+<!-- [![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeromeandrewong&show_icons=true&hide=stars&theme=tokyonight)](https://github.com/jeromeandrewong/github-readme-stats) -->
 
